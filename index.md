@@ -1,3 +1,5 @@
+Hi, I am an aspiring programmer and statistics student. Just trying my skills on creating and blog and improving it.
+This is part of homewwork assignment and covers some fun stuff related to creating blog!
 
 ![BLOG](https://user-images.githubusercontent.com/109885196/187854349-cd4b8bcc-3f04-4e39-92d4-54b8caba7531.png)
 
