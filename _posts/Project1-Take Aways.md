@@ -13,7 +13,8 @@ Link to the project.
 file:///C:/Users/smipa/OneDrive/Documents/Patnaik_Project_1_v2.html
 
 
-Smith118.github.io/Patnaik_Project_1_v2.html
+https://github.com/Smith118/Smith118.github.io/blob/main/Patnaik_Project_1_v2.html
+
 
 
 
