@@ -10,11 +10,9 @@ The key takesways from this project was to understand how to use functions and p
 The project could have been improved by tackling issues like maaintanin class type of the dataframes through out the projec.  A work around was introduced into the code to keep it consistent as in many cases functions returned multiple outputs. And this required bundling them into list. A good planning into the code could have helped in handling function returns better, given some additional time.
 
 Link to the project.
-![BLOG](https://github.com/Smith118/Smith118.github.io/blob/main/Patnaik_Project_1_v2.html)
+https://github.com/Smith118/Smith118.github.io/blob/main/Patnaik_Project_1_v2.html
 
-![BLOG](Patnaik_Project_1_v2.html)
-
-![BLOG](Smith118.github.io/Patnaik_Project_1_v2.html)
+https://Smith118.github.io/Patnaik_Project_1_v2.html
 
 
 
