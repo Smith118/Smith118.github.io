@@ -10,3 +10,6 @@ This captures discussion on following points :
 * View self in relation to these two areas
 
 
+Summarising Projetc1 Post: Purpose Porject1, Learning Outcomes, Possible Changes.
+
+
