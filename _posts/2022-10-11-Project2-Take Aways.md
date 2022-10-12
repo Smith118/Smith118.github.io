@@ -1,4 +1,4 @@
-# Introduction
+# Project 2 Takeaways
 
 ## Purpose of Project
 The Project 2 is about creating a vignette about contacting an API query, parse, and return well-structured data using functions. Handle APIs and fetch data from them using R. Understanding the data and conevrting them to presentable tables or dataframe and performing exploratoty data analysis.. 
