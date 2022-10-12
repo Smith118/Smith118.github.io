@@ -10,6 +10,8 @@ Post 1 captures discussion on following points :
 * View self in relation to these two areas
 
 
-Post 2 captures: Purpose Porject1, Learning Outcomes, Possible Changes.
+Post 2 captures: Purpose of Project1, Learning Outcomes, Possible Changes.
+
+Post 3 captures: Purpose of Project2, Contributions and Findings, Process, Challenges, Possible Changes.
 
 
