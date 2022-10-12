@@ -6,7 +6,7 @@ The Project 2 is about creating a vignette about contacting an API query, parse,
 The working and results of the project can be seen in the following links.
 
 Link to the rendered github repo
-[Link to the project](https://cassioaumonti.github.io/project2T/)
+[Link to the Vignette](https://cassioaumonti.github.io/project2T/)
 
 Link to the regular repo
 [Non-github pages site](https://github.com/cassioaumonti/project2T)
