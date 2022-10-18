@@ -14,4 +14,6 @@ Post 2 captures: Purpose of Project1, Learning Outcomes, Possible Changes.
 
 Post 3 captures: Purpose of Project2, Contributions and Findings, Process, Challenges, Possible Changes.
 
+Post 4 captures: About Exploratory Data Analysis - Strategy, Goals, Methods, Takeaways
+
 
