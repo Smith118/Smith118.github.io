@@ -16,4 +16,6 @@ Post 3 captures: Purpose of Project2, Contributions and Findings, Process, Chall
 
 Post 4 captures: About Exploratory Data Analysis - Strategy, Goals, Methods, Takeaways
 
+Post 5 captures: Variable Selection Strategy and Techniques for Regression Models.
+
 
