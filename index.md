@@ -18,4 +18,6 @@ Post 4 captures: About Exploratory Data Analysis - Strategy, Goals, Methods, Tak
 
 Post 5 captures: Variable Selection Strategy and Techniques for Regression Models.
 
+Post 6 captures: Predictive Models- EDA , Regression and Ensemble Methods.
+
 
