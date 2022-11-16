@@ -8,7 +8,7 @@ Link to the rendered github repo
 [Link to the Projectfiles]([https://pmb-7684.github.io/ST558_Project_3/])
 
 Link to the regular repo
-[Non-github pages site]([https://github.com/pmb-7684/ST558_Project_3)])
+[Non-github pages site]([https://github.com/pmb-7684/ST558_Project_3])
 
 ## what can be done differently?
 
