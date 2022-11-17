@@ -3,12 +3,12 @@
 ## Purpose of Project
 The Project 3 is about using OnlineNewsPopularity dataset to perform some Exploratory Data Analysis and apply machine learning models , specifically Linear Regression models and Ensemble models to predict the respons variable called **shares**. The dataset has been split into 6 different categories of datasets based on a categorical variable **data_channel_xx** . The analysis and predictions on these 6 sets of data has been automated using R code and a single .Rmd file was fed with all these datasets and results was taken out as 6 separate github document.
 
-The link to the files is given below:
-
 Link to the rendered github repo:
+
 [Link to the Projectfiles](https://pmb-7684.github.io/ST558_Project_3/)
 
 Link to the regular repo:
+
 [Non-github pages site](https://github.com/pmb-7684/ST558_Project_3)
 
 ## what can be done differently?
