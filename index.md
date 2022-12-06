@@ -20,4 +20,6 @@ Post 5 captures: Variable Selection Strategy and Techniques for Regression Model
 
 Post 6 captures: Predictive Models- EDA , Regression and Ensemble Methods.
 
+Post 7 captures: Takeaways from coursework (ST558- Data science with R)
+
 
